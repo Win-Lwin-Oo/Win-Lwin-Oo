@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me (winlwinoocu@gmail.com)
 
-[![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=wincherry)](https://github.com/anuraghazra/github-readme-stats)
-![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=wincherry&hide=contribs,prs)
+![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=wincherry&&show_icons=true&theme=radical&count_private=true)
 
 <!---
 Win-Lwin-Oo/Win-Lwin-Oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
