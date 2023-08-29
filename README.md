@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Win
 - 👀 I’m interested in **Mobile Application Development**
-- 🌱 I’m currently learning **iOS App Development with Swift**
+- 🌱 I’m currently learning ** App Development with Swift**
 - 💞️ I’m looking to collaborate on **Research & Development**
 - 📫 How to reach me (winlwinoocu@gmail.com)
 
