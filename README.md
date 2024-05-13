@@ -5,7 +5,7 @@
 - 📫 How to reach me (winlwinoocu@gmail.com)
 
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=yayyar&&show_icons=true&theme=tokyonight&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayyar&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayyar&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Win-Lwin-Oo/Win-Lwin-Oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
